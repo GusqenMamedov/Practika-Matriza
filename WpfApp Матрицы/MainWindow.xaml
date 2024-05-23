@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp_Матрицы.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Транспонирование Матрицы" Height="300" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Матрица:" Margin="10" />
+        <TextBox x:Name="txtMatrix" Grid.Row="0" Grid.Column="1" Margin="10" />
+
+        <Button x:Name="btnTranspose" Content="Транспонировать" Grid.Row="1" Grid.Column="1" Margin="10" Click="btnTranspose_Click" />
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Транспонированная матрица:" Margin="10" />
+        <TextBox x:Name="txtTransposedMatrix" Grid.Row="2" Grid.Column="1" Margin="10" IsReadOnly="True" />
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Результат:" Margin="10" />
+        <TextBlock x:Name="txtResult" Grid.Row="3" Grid.Column="1" Margin="10" />
+    </Grid>
+</Window>

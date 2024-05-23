@@ -1,0 +1,14 @@
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.csproj.AssemblyReference.cache
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\MainWindow.baml
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\MainWindow.g.cs
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\App.g.cs
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы_MarkupCompile.cache
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.g.resources
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp_Матрицы.Properties.Resources.resources
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.csproj.GenerateResource.cache
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.csproj.CoreCompileInputs.cache
+D:\ИС-21\Авагян\WpfApp Матрицы\bin\Debug\WpfApp Матрицы.exe.config
+D:\ИС-21\Авагян\WpfApp Матрицы\bin\Debug\WpfApp Матрицы.exe
+D:\ИС-21\Авагян\WpfApp Матрицы\bin\Debug\WpfApp Матрицы.pdb
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.exe
+D:\ИС-21\Авагян\WpfApp Матрицы\obj\Debug\WpfApp Матрицы.pdb
